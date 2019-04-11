@@ -9,6 +9,7 @@ using System.IO.IsolatedStorage;
 namespace ConsoleAppIsolatedStorage
 {   //https://docs.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-files-in-isolated-storage
     //https://docs.microsoft.com/en-us/dotnet/standard/io/isolated-storage
+    //C:\Users\MichaelC\AppData\Local\IsolatedStorage\uduurabl.a1a\vphuq4tl.v15\Url.sjo543ywoamxykoquj1dqs2v20emauut\AssemFiles
     class Program
         {
             static void Main(string[] args)
